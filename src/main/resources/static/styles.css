@@ -1,0 +1,36 @@
+@charset "UTF-8";
+h1{
+	color:#ff5d00;
+    font-size: 80px;
+    line-height: 80px;
+}
+
+body{
+
+	width:400px;
+	 text-align: right;
+  	  padding-right: 10px;  
+    line-height: 30px;
+    font-family: sans-serif;
+/* background-image:url(dnut.jpg); */
+    background-size: 1000px;
+    background-position:absolute;
+    background-size:     cover; 
+    
+}
+form{
+	border:dotted;
+	border-color:white;
+	margin-left: 120px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding:10px;
+   color:#ff5d00;
+}
+input{
+	 background-color: yellow;
+	 color:#ff5d00;
+	 border-color: white;
+	 font-size: 20px;
+}
+
