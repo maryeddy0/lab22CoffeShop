@@ -11,7 +11,7 @@
 </head>
 <body style="background-image:url(dnutCopy.jpg);">
 ${"" }
-<h1>COFFEE HOUSE</h1>
+<h1>JAVA BEAN <span style="color:#5e372e;">COFFEE HOUSE</span></h1>
 
 <form action="index">
 <input type="submit" value="Register Here"> 

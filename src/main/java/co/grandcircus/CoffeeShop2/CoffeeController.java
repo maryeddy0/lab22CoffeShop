@@ -13,7 +13,6 @@ public class CoffeeController {
 	private User user;
 
 	@RequestMapping("/")
-
 	public ModelAndView index() {
 		ModelAndView mv = new ModelAndView("home", "hello", "hello, Antonella!");
 		return mv;

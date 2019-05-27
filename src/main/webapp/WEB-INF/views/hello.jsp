@@ -8,7 +8,7 @@
 <link rel="stylesheet" type="text/css" href="/styles.css">
 </head>
 <body style="background-image:url(coffeeCup.jpg); background-size:cover;">
-<h1>Hello ${hello}</h1>
-
+<h1>Hello<br>${hello}</h1>
+<script src="/script.js"></script>
 </body>
 </html>

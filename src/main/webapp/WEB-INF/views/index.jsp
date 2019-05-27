@@ -9,10 +9,11 @@
 </head>
 <body style="background-image:url(dnut2.jpeg); background-size:cover;">
 
-<h1>COFFEE HOUSE</h1>
-<p style="font-size:33.5px; line-height:10px;">REGISTRATION</p>
+<h1>JAVA BEAN <span style="color:#5e372e;">COFFEE HOUSE</span></h1>
 
-<form action="registration" method="POST" >
+
+<form name="myForm" action="registration"  onsubmit="return validateForm()" method="post" >
+<p style="font-size:33.5px; color:black;">REGISTRATION</p>
 <input id="name" type="text" name="first" value="First Name:"><br>
 <input type="text" name="last" value="Last Name:"><br>
 <input type="email" name="email" value="Email:"><br>
@@ -22,6 +23,6 @@
 </form>
 
 
-
+<script src="/script.js"></script>
 </body>
 </html>

@@ -1,16 +1,17 @@
 @charset "UTF-8";
 h1{
 	color:#ff5d00;
-    font-size: 80px;
-    line-height: 80px;
+    font-size: 90px;
+    line-height: 90px;
+    position:fixed;
+    width:500px;
 }
 
 body{
 
-	width:400px;
-	 text-align: right;
-  	  padding-right: 10px;  
-    line-height: 30px;
+	text-align: right;
+  	padding-right: 10px;  
+   
     font-family: sans-serif;
 /* background-image:url(dnut.jpg); */
     background-size: 1000px;
@@ -19,18 +20,20 @@ body{
     
 }
 form{
-	border:dotted;
-	border-color:white;
-	margin-left: 120px;
-    padding-top: 10px;
-    padding-right: 10px;
+/* 	border:dotted; */
+/* 	border-color:white; */
+    margin-left: 600px;
+    margin-top: 60px;
     padding:10px;
-   color:#ff5d00;
+   color:#5e372e;
+   float:right;
+   position: absolute;
 }
 input{
 	 background-color: yellow;
 	 color:#ff5d00;
-	 border-color: white;
+/* 	 border-color: white; */
 	 font-size: 20px;
+	  padding:10px;
 }
 
