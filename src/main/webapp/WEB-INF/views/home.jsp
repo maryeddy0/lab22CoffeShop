@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>JAVA BEAN COFFE SHOP</title>
 <link rel="stylesheet" type="text/css" href="/styles.css">
 
 
@@ -14,7 +14,7 @@ ${"" }
 <h1>JAVA BEAN <span style="color:#5e372e;">COFFEE HOUSE</span></h1>
 
 <form action="index">
-<input type="submit" value="Register Here"> 
+<input style="background-color:yellow;" type="submit" value="Register Here"> 
 </form>
 
 <script src="/script.js"></script>

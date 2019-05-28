@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>JAVA BEAN COFFE SHOP</title>
 <link rel="stylesheet" type="text/css" href="/styles.css">
 </head>
 <body style="background-image:url(coffeeCup.jpg); background-size:cover;">

@@ -1,39 +1,48 @@
 @charset "UTF-8";
 h1{
 	color:#ff5d00;
-    font-size: 90px;
-    line-height: 90px;
+    font-size: 5.5em;
+    line-height: 80px;
     position:fixed;
-    width:500px;
+    width:450px;
+	text-align: right;
 }
 
 body{
 
-	text-align: right;
+	
   	padding-right: 10px;  
-   
     font-family: sans-serif;
-/* background-image:url(dnut.jpg); */
     background-size: 1000px;
     background-position:absolute;
-    background-size:     cover; 
+    background-size: cover; 
     
 }
 form{
-/* 	border:dotted; */
-/* 	border-color:white; */
-    margin-left: 550px;
-    margin-top: 60px;
+	
+    margin-left:500px;
+    margin-top: 110px;
     padding:10px;
-   color:#5e372e;
+   color:#ff5d00;
    float:right;
    position: absolute;
+   line-height: 25px;
+   color:#5e372e;
 }
 input{
-	 background-color: yellow;
-	 color:#ff5d00;
+	 background-color: white;
+	 border-color:#ff5d00;
+	 color:#5e372e;
 /* 	 border-color: white; */
-	 font-size: 20px;
-	  padding:10px;
+	 font-size: 18px;
+	 width: auto;
+	 align:center;
+	
 }
 
+fieldset{
+	border-width: medium;
+    border-style: dashed;
+    border-color: white;
+    font-weight: bold;
+}
